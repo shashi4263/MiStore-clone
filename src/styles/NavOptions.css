@@ -1,0 +1,5 @@
+.navOptions{
+    display: flex;
+    background-color: white;
+    justify-content: space-evenly;
+}
